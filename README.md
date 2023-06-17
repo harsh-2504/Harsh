@@ -4,6 +4,7 @@ using namespace std;
 
 class Drama
 {
+    
     protected:
         char types[50];
         float rating;
